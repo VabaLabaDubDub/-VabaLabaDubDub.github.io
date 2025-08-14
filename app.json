@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Album Pairings",
+    "slug": "album-pairings-prototype",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "albumpairings",
+    "userInterfaceStyle": "automatic",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": { "bundler": "metro" }
+  }
+}
