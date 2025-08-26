@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OceanicAuthApp</string>
+	<string name="email">Email</string>
+	<string name="password">Пароль</string>
+	<string name="login">Войти</string>
+	<string name="register">Регистрация</string>
+	<string name="forgot_password">Забыли пароль?</string>
+	<string name="invalid_email">Некорректный email</string>
+	<string name="password_length_error">Пароль должен содержать минимум 6 символов</string>
+	<string name="login_success">Успешный вход</string>
+	<string name="language">Язык</string>
+	<string name="registration_stub">Экран регистрации в разработке</string>
+	<string name="not_implemented">Пока не реализовано</string>
+</resources>
