@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OceanicAuthApp</string>
+	<string name="email">Email</string>
+	<string name="password">Password</string>
+	<string name="login">Login</string>
+	<string name="register">Register</string>
+	<string name="forgot_password">Forgot password?</string>
+	<string name="invalid_email">Invalid email</string>
+	<string name="password_length_error">Password must be at least 6 characters</string>
+	<string name="login_success">Login successful</string>
+	<string name="language">Language</string>
+	<string name="registration_stub">Registration screen is under construction</string>
+	<string name="not_implemented">Not implemented yet</string>
+</resources>

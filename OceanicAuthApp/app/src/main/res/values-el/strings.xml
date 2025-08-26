@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OceanicAuthApp</string>
+	<string name="email">Email</string>
+	<string name="password">Κωδικός</string>
+	<string name="login">Σύνδεση</string>
+	<string name="register">Εγγραφή</string>
+	<string name="forgot_password">Ξεχάσατε τον κωδικό;</string>
+	<string name="invalid_email">Μη έγκυρο email</string>
+	<string name="password_length_error">Ο κωδικός πρέπει να έχει τουλάχιστον 6 χαρακτήρες</string>
+	<string name="login_success">Επιτυχής σύνδεση</string>
+	<string name="language">Γλώσσα</string>
+	<string name="registration_stub">Η οθόνη εγγραφής είναι υπό κατασκευή</string>
+	<string name="not_implemented">Δεν έχει υλοποιηθεί ακόμα</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OceanicAuthApp</string>
+	<string name="email">Email</string>
+	<string name="password">Kata sandi</string>
+	<string name="login">Masuk</string>
+	<string name="register">Daftar</string>
+	<string name="forgot_password">Lupa kata sandi?</string>
+	<string name="invalid_email">Email tidak valid</string>
+	<string name="password_length_error">Kata sandi minimal 6 karakter</string>
+	<string name="login_success">Berhasil masuk</string>
+	<string name="language">Bahasa</string>
+	<string name="registration_stub">Layar pendaftaran sedang dibuat</string>
+	<string name="not_implemented">Belum diimplementasikan</string>
+</resources>

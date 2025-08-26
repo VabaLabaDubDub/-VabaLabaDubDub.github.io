@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OceanicAuthApp</string>
+	<string name="email">Email</string>
+	<string name="password">Password</string>
+	<string name="login">Mag-login</string>
+	<string name="register">Magrehistro</string>
+	<string name="forgot_password">Nakalimutan ang password?</string>
+	<string name="invalid_email">Di-wastong email</string>
+	<string name="password_length_error">Dapat hindi bababa sa 6 na character ang password</string>
+	<string name="login_success">Matagumpay na pag-login</string>
+	<string name="language">Wika</string>
+	<string name="registration_stub">Ginagawa pa ang screen ng rehistro</string>
+	<string name="not_implemented">Hindi pa naipatupad</string>
+</resources>
